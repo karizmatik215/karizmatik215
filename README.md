@@ -4,4 +4,4 @@
   
 ### Portfolio
 
-https://karizmatik215.github.io/Portfolio/
+https://karizmatik215.github.io/20-React-Portfolio/
